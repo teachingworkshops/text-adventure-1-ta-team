@@ -18,6 +18,10 @@ public class TextAdventure1 {
 		System.out.printf("You're trapped in a room by non other than your arch-nemesis!%n");
 		//System.out.printf("Y");
 		name = scanner.next();
+		
+		//test
+		
+		System.out.print(false);
 	}
 
 }
