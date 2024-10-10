@@ -19,13 +19,9 @@ public class TextAdventure1 {
 		//System.out.printf("Y");
 		name = scanner.next();
 		
-<<<<<<< HEAD
-		// test
-=======
-		//test
-		
+		//test		
 		System.out.print(false);
->>>>>>> refs/remotes/origin/zach
+
 	}
 
 }
